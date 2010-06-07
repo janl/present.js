@@ -18,7 +18,7 @@ function start() {
     "background-color": "white",
     "font-size": "5em",
     "text-align": "center",
-    "padding-top": "1.5em",
+    "padding-top": "2.5em",
   });
 
   var body = tag("body");
